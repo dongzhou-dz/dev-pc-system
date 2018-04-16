@@ -1,5 +1,7 @@
 # dev-pc-system
 
+The first vue project
+
 > A Vue.js project
 
 ## Build Setup
