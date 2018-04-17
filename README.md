@@ -1,6 +1,6 @@
 # dev-pc-system
 
-The first vue project.
+The first vue project
 
 > A Vue.js project
 
